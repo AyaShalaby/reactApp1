@@ -1,0 +1,19 @@
+.form-control {
+   
+    color: var(--bs-body-color);
+   
+    background-color: var(--bs-body-bg);
+   
+    border:unset;
+    border-radius:unset;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+
+
+.msBtn{
+   background-color: #1abc9c;
+}
+.btn:hover{
+    background-color:#1abc9c ;
+}

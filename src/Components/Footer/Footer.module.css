@@ -1,0 +1,24 @@
+.footUp{
+    background-color: #2c3e50;
+    text-align: center;
+    padding: 80px 40px;
+}
+
+/* .icon::before{
+    content: '';
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    border: 1px solid #fff;
+    padding: 10px;
+} */
+
+.icon{
+    border: 1px solid #fff;
+    border-radius: 50%;
+    padding: 10px;
+}
+.footDown{
+   background-color: #1a252f;
+    padding: 10px;
+}

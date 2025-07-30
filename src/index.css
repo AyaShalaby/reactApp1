@@ -1,0 +1,22 @@
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show{
+   background-color:#1abc9c;
+    border-radius: 10px;
+    padding-block: 10px;
+}
+
+.form-control {
+    border:unset;
+    border-radius:unset;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    border-bottom: 1px solid #dee2e6;
+}
+
+
+
+.form-control:focus {
+    color: var(--bs-body-color);
+    background-color: var(--bs-body-bg);
+    border-color: #dee2e6;
+    outline: 0;
+    box-shadow: unset;
+}
